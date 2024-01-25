@@ -1,0 +1,33 @@
+details:
+  first_name: Kristina
+  last_name: Varlamova
+
+  title: Program Engeneer
+
+profile: Personal description.
+
+contact:
+- text: Varlamovac@gmail.com
+  url: https://vk.com/kriss25
+  icon: email
+
+technical:
+  - category: Languages
+    items: PHP, Java, C#, JS
+  - category: Frameworks
+    items: Node.js, React.js, Symfony
+
+sections:
+
+- name: Education
+  items:
+  - title: TUSUR
+    subtitle: University
+    location: Tomsk, Russia
+    from:
+      month: 9
+      year: 2021
+    to:
+      month: 6
+      year: 2025
+    description: program engeneer
